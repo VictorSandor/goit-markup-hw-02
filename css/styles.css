@@ -116,6 +116,11 @@ p {
   color: #ffffff;
 }
 
+button {
+  margin: 0 auto;
+  display: block;
+}
+
 .order-button {
   color: #fff;
   background-color: #4d5ae5;
